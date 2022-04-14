@@ -133,3 +133,4 @@ dmypy.json
 lfw/
 lfw.tgz
 data/
+training_checkpoints/
