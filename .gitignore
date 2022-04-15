@@ -134,3 +134,4 @@ lfw/
 lfw.tgz
 data/
 training_checkpoints/
+siamesemodel.h5
