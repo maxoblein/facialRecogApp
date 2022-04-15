@@ -135,3 +135,4 @@ lfw.tgz
 data/
 training_checkpoints/
 siamesemodel.h5
+application_data/
