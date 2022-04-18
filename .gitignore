@@ -134,5 +134,7 @@ lfw/
 lfw.tgz
 data/
 training_checkpoints/
-siamesemodel.h5
+model_versions/
 application_data/
+data.zip
+checkpoints_model_v2/
